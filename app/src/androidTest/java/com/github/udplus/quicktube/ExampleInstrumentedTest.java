@@ -23,6 +23,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.github.udplus.quicktube", appContext.getPackageName());
+        assertEquals("com.github.udplus.quicktube111", appContext.getPackageName());
     }
 }
